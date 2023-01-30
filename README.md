@@ -46,5 +46,5 @@ Using a correlation heatmap to show relationship between numeric category (Term,
 
 In the Multivariate Exploration, I used point plot for my visualization, the plot shows that there is a 95% confidence interval between low-risk rating (AA) and the loan amount, which deduce that borrowers who has a home has low risk rating and access to larger amount of loan
 
-#Key Insights
+# Key Insights
 My key insight focuses more on the main features of interest: BorrowerAPR & Loan Original Amount and the predictor variables. The distribution for the main features of interest: BorrowerAPR is unimodal with the peak values around 0.35% and Loan Original Amount is Trimodal having peak values around $5k, $10k, $15k. This clearly explains that most loan collected were around the ranges of the peak value. Comparing my one of main features of interest variable with Loan Year, BorrowerAPR distribution shows that 2011 has the highest % of APR which is 0.25% and 2014 has the least APR which is about 0.17%. There is a gradual fall process from 2012 to 2014
