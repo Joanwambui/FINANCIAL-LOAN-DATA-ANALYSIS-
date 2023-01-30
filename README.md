@@ -2,9 +2,13 @@
 Exploring data analysis on Prosper loan dataset to understand data's structures, patterns and relationships.
 # Table of Content
 Introduction
+
 Dataset Overview
+
 Data Cleaning
+
 Summary of Insights
+
 Key Insights for Presentation
 
 # Introduction
