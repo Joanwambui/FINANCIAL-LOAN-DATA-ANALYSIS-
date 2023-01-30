@@ -21,6 +21,9 @@ In Part II, Explanatory data visualization illustrates interesting properties, t
 The main dataset contains 113937 rows and 81 columns. After thoroughly cleaning my data, the dataset contains 83507 records and 18 features.
 Link to dataset: https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1581581520570000
 
+![](Images/Screenshot%20(234).png)
+![](Images/Screenshot%20(235).png)
+
 # Data Cleaning
 Imported the data and went through the metadata to understand the meaning of each features/variable.
 Subset the relevant columns needed for analysis
